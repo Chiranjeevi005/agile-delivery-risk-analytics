@@ -56,3 +56,39 @@
 * Corrected carry-forward definition for accurate spillover tracking (Carry_Forward_Flag refinement).
 * Documented dataset assumptions and limitations in the data dictionary.
 * Dataset finalized for analytical modeling in Phase 2.
+
+## Day 9
+
+* Built Excel model with sprint-level aggregation
+* Implemented refined risk classification logic (High/Medium/Low)
+* Added data validation checks and executive KPI dashboard
+
+## Day 10
+
+* Fixed risk classification logic with specific thresholds (<0.6 High, <0.8 Medium)
+* Improved metric definitions for commitment and completion
+* Added divide-by-zero protection in all analytical ratios
+* Expanded dashboard for decision-ready sprint executive summaries
+
+## Day 11
+
+* Removed redundant metrics (Completion_Rate) to focus on primary performance drivers.
+* Introduced weighted aggregation logic for global portfolio-level commitment analysis.
+* Added data confidence tracking (Data_Strength_Flag) to identify statistically low-confidence sprints.
+* Enhanced dashboard with trend analysis (Improving/Declining) and automated "Worst Sprint" identification.
+* Upgraded risk model to 4-tier severity (Critical/High/Moderate/Low) with decision-grade visualization.
+
+## Day 12
+
+* Introduced confidence-aware decision logic (Adjusted_Risk mapping).
+* Corrected worst sprint identification by prioritizing statistically reliable datasets.
+* Improved executive interpretation through severity-confidence concatenation.
+* Added elite-level insights and strategic business recommendations layer.
+* Overcame data-imbalance biases by applying weighted reliably-focused aggregations.
+
+## Day 13
+
+* Eliminated misleading metrics from low-confidence data
+* Corrected executive summary calculations
+* Added confidence-aware risk interpretation
+* Finalized decision-grade dashboard
