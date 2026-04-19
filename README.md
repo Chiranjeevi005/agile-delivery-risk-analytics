@@ -29,4 +29,4 @@ This project builds a risk analytics system using Excel, Power BI, and Jira to d
 
 ## Status
 
-Phase 0 — Initialization Completed
+Phase 0 — Problem Framing Completed
