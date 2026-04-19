@@ -1,0 +1,14 @@
+Issue_ID,Created_Date,Resolved_Date,Assignee,Milestone,Source,Sprint_ID,Sprint_Start_Date,Sprint_End_Date,Completion_Time,Standardized_Status,Issue_Type,Completion_Flag,Data_Quality_Flag,Planned_Flag,Completed_In_Sprint_Flag,Carry_Forward_Flag
+36279,01-01-2024,01-01-2024,Unassigned,,GitHub,Sprint_01,01-01-2024,14-01-2024,0.07,Done,Bug,1,Valid,1,1,0
+KAFKA-101,01-01-2024,05-01-2024,jdoe,3.6.0,Apache,Sprint_01,01-01-2024,14-01-2024,4.21,Done,Bug,1,Valid,1,1,0
+36281,01-01-2024,,Unassigned,,GitHub,Sprint_01,01-01-2024,14-01-2024,,To Do,Bug,0,Valid,1,0,0
+36283,01-01-2024,,Unassigned,,GitHub,Sprint_01,01-01-2024,14-01-2024,,To Do,Other,0,Valid,1,0,0
+36284,02-01-2024,,Unassigned,,GitHub,Sprint_01,01-01-2024,14-01-2024,,To Do,Other,0,Valid,1,0,0
+36288,02-01-2024,,Unassigned,,GitHub,Sprint_01,01-01-2024,14-01-2024,,To Do,Other,0,Valid,1,0,0
+KAFKA-102,02-01-2024,,asmith,3.7.0,Apache,Sprint_01,01-01-2024,14-01-2024,,To Do,Feature,0,Valid,1,0,0
+36298,02-01-2024,,Unassigned,,GitHub,Sprint_01,01-01-2024,14-01-2024,,To Do,Other,0,Valid,1,0,0
+36302,02-01-2024,03-01-2024,Unassigned,,GitHub,Sprint_01,01-01-2024,14-01-2024,0.41,Done,Other,1,Valid,1,1,0
+KAFKA-103,03-01-2024,15-01-2024,jdoe,3.6.0,Apache,Sprint_01,01-01-2024,14-01-2024,12.12,Done,Tech Debt,1,Valid,1,0,1
+36315,04-01-2024,,Unassigned,,GitHub,Sprint_01,01-01-2024,14-01-2024,,To Do,Bug,0,Valid,1,0,0
+KAFKA-104,10-01-2024,12-01-2024,asmith,3.6.0,Apache,Sprint_01,01-01-2024,14-01-2024,2.08,In Progress,Bug,0,Valid,1,0,0
+KAFKA-105,15-01-2024,,rjones,3.7.0,Apache,Sprint_02,15-01-2024,28-01-2024,,To Do,Other,0,Valid,1,0,0

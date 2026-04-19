@@ -1,0 +1,6 @@
+Issue_ID,Created_Date,Resolved_Date,Status,Assignee,Labels,Milestone
+KAFKA-101,2024-01-01T10:00:00Z,2024-01-05T15:00:00Z,Resolved,jdoe,bug,3.6.0
+KAFKA-102,2024-01-02T11:00:00Z,,Open,asmith,feature,3.7.0
+KAFKA-103,2024-01-03T09:00:00Z,2024-01-15T12:00:00Z,Closed,jdoe,tech-debt,3.6.0
+KAFKA-104,2024-01-10T14:00:00Z,2024-01-12T16:00:00Z,In Progress,asmith,bug,3.6.0
+KAFKA-105,2024-01-15T08:00:00Z,,Reopened,rjones,improvement,3.7.0
