@@ -99,3 +99,10 @@
 * Converted insights into quantified business impact
 * Aligned recommendations with observed data
 * Finalized project for portfolio and interviews
+
+## Day 15
+
+* Built predictive risk model using early sprint signals
+* Validated model against actual sprint outcomes
+* Documented methodology and limitations
+* Completed predictive analytics layer
