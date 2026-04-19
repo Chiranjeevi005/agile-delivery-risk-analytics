@@ -92,3 +92,10 @@
 * Corrected executive summary calculations
 * Added confidence-aware risk interpretation
 * Finalized decision-grade dashboard
+
+## Day 14
+
+* Refined executive communication language
+* Converted insights into quantified business impact
+* Aligned recommendations with observed data
+* Finalized project for portfolio and interviews
