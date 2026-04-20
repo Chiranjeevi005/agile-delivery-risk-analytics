@@ -106,3 +106,10 @@
 * Validated model against actual sprint outcomes
 * Documented methodology and limitations
 * Completed predictive analytics layer
+
+## Day 16
+
+* Built Power BI dashboard with sprint performance metrics
+* Integrated predictive risk model
+* Designed executive-level visualization layout
+* Enabled drill-down analysis
